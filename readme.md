@@ -29,7 +29,7 @@ This repository contains the exploratory data analysis and data preprocessing pe
 ## File Structure
 
 ```text
-milestone/
+4SF25CI075_3A/
 │
 ├── milestone.ipynb       # Jupyter Notebook containing data cleaning, insights, and visualizations
 ├── readme.md             # Project overview and documentation
